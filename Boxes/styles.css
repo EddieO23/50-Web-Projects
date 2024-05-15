@@ -42,7 +42,8 @@ html {
 }
 
 .btn {
-   width: 15rem;
+    border-radius: 2rem;
+   width: 13rem;
    height: 4rem;
    background-color: #efd81d; 
    font-size: 1.4rem;
